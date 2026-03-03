@@ -1,4 +1,4 @@
-#AGE CALC
+#AGE CALCULATOR
 import datetime
 from tkinter import * #import library
 from tkinter.constants import LEFT
@@ -39,3 +39,4 @@ button1 = Button(root, text= "Calculate Age", command = apple).grid(row =5, colu
 #button1.grid(row=5, column = 1)
 
 root.mainloop()
+
